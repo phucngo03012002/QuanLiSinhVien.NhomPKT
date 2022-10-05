@@ -9,3 +9,4 @@ D:\CODE\C#\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.csproj.Generat
 D:\CODE\C#\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.csproj.CoreCompileInputs.cache
 D:\CODE\C#\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.exe
 D:\CODE\C#\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.pdb
+D:\CODE\C#\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.Frm_QuanLyNguoiDung_Modified.resources
