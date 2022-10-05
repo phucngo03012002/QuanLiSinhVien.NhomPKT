@@ -9,3 +9,15 @@ D:\CODE\C#\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.csproj.Generat
 D:\CODE\C#\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.csproj.CoreCompileInputs.cache
 D:\CODE\C#\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.exe
 D:\CODE\C#\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.pdb
+C:\Users\khanh\OneDrive\Máy tính\c#\PKT\QuanLiSinhVien.NhomPKT\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.csproj.AssemblyReference.cache
+C:\Users\khanh\OneDrive\Máy tính\c#\PKT\QuanLiSinhVien.NhomPKT\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.csproj.SuggestedBindingRedirects.cache
+C:\Users\khanh\OneDrive\Máy tính\c#\PKT\QuanLiSinhVien.NhomPKT\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.FrmLogin.resources
+C:\Users\khanh\OneDrive\Máy tính\c#\PKT\QuanLiSinhVien.NhomPKT\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.FrmMain.resources
+C:\Users\khanh\OneDrive\Máy tính\c#\PKT\QuanLiSinhVien.NhomPKT\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.csproj.GenerateResource.cache
+C:\Users\khanh\OneDrive\Máy tính\c#\PKT\QuanLiSinhVien.NhomPKT\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.exe
+C:\Users\khanh\OneDrive\Máy tính\c#\PKT\QuanLiSinhVien.NhomPKT\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.pdb
+C:\Users\khanh\OneDrive\Máy tính\c#\PKT\QuanLiSinhVien.NhomPKT\QuanLiSinhVien\bin\Debug\QuanLiSinhVien.exe.config
+C:\Users\khanh\OneDrive\Máy tính\c#\PKT\QuanLiSinhVien.NhomPKT\QuanLiSinhVien\bin\Debug\QuanLiSinhVien.exe
+C:\Users\khanh\OneDrive\Máy tính\c#\PKT\QuanLiSinhVien.NhomPKT\QuanLiSinhVien\bin\Debug\QuanLiSinhVien.pdb
+C:\Users\khanh\OneDrive\Máy tính\c#\PKT\QuanLiSinhVien.NhomPKT\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.Properties.Resources.resources
+C:\Users\khanh\OneDrive\Máy tính\c#\PKT\QuanLiSinhVien.NhomPKT\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.csproj.CoreCompileInputs.cache
